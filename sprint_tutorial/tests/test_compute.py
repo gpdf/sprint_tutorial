@@ -1,4 +1,4 @@
-""" Tests for the compute module, symmetric and asymmetric
+""" Tests for the compute module, now symmetric and asymmetric
 """
 from nose.tools import assert_equal
 
